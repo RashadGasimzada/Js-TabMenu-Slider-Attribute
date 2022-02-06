@@ -1,0 +1,22 @@
+.text {
+    display: inline-block;
+}
+.fas {
+    color: rgb(4,126,179);
+    margin: 10px;
+}
+.fas:hover {
+    cursor: pointer;
+}
+.not-hidden {
+    display: block !important;
+}
+.hidden {
+    display: none;
+}
+.tn {
+    transition: all 0.5s;
+}
+.disabled {
+    color: rgb(95, 180, 216);
+}
